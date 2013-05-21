@@ -1,0 +1,12 @@
+%Compilation:gregorio BenedicamusDomino-complies.gabc
+%Apercu:gedit BenedicamusDomino-complies.tex
+name:BenedicamusDomino-complies;
+office-part:Verset;
+initial-style:0;
+%%
+
+(c3) <alt>\rubrique{Le chantre}</alt>
+<sp>V/</sp><v>{\red.}</v> B{e}(h')ne(h)di(h)cá(hi)mus(i') Dó(i)mi(i)no.(ivHG.) (::)
+
+<alt>\rubrique{Tous}</alt>
+<sp>R/</sp><v>{\red.}</v> D{e}(i)o(i') grá(i)ti(i)as.(ivHG.) (::)

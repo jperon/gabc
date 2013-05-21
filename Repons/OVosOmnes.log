@@ -1,0 +1,95 @@
+This is LuaTeX, Version beta-0.50.0-2009122515 (format=lualatex 2009.12.31)  15 FEB 2010 17:34
+ restricted \write18 enabled.
+**OVosOmnes.gabc
+(./OVosOmnes.gabc
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, pinyin, loaded.
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 n
+     ame:O vos omnes;
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.3 (c4) O(j_
+             h) vos(i_h) o(g_h)mnes,(gg) *(,) qui(f) tran(h')sí(j)tis(ji) p...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+! Missing { inserted.
+<to be read again> 
+                   _
+l.3 ...i(ij)te,(h_g) et(hi) vi(i)dé(hgh)te(ghg'__
+                                                  _ge.) *(;) Si(e) est(e) do...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+If you're confused by all this, try typing `I}' now.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.3 ...(ij)te,(h_g) et(hi) vi(i)dé(hgh)te(ghg'___
+                                                  ge.) *(;) Si(e) est(e) do(...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+If you're confused by all this, try typing `I}' now.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.3 ...i(e) est(e) do(g_!hi)lor(h) sí(h!iwj!kvJ__
+                                                  I'H)mi(h.g!hwihi)lis(ih..)...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+If you're confused by all this, try typing `I}' now.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.3 ...h..) (,) sic(ji)ut(jk~) do(k)lor(g.h!iwjI__
+                                                  HiwjIH) me(ghivHG'h)us.(hg...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+If you're confused by all this, try typing `I}' now.
+
+)
+! Emergency stop.
+<*> OVosOmnes.gabc
+                  
+*** (job aborted, no legal \end found)
+
+
+
+Here is how much of LuaTeX's memory you used:
+ 18 strings out of 256749
+ 100000,552014 words of node,token memory allocated 3575 words of node memory still in use:
+   1 hlist, 5 glue, 1 penalty, 446 noad, 463 math_char, 6 sub_mlist, 22 glyph, 
+33 glue_spec, 6 temp, 1 local_par, 6 dir nodes
+   avail lists: 2:7,6:1
+ 3779 multiletter control sequences out of 65536+50000
+ 25 fonts using 710919 bytes
+ 18i,6n,12p,346b,57s stack positions out of 5000i,500n,6000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!

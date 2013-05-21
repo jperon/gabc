@@ -1,0 +1,48 @@
+This is LuaTeX, Version beta-0.50.0-2009122515 (format=lualatex 2009.12.31)  1 JUL 2010 21:06
+ restricted \write18 enabled.
+**VeniCreator-intonation.gabc
+(./VeniCreator-intonation.gabc
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, pinyin, loaded.
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 n
+     ame: Veni, Creátor;
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--5
+[][]name:
+ []
+
+)
+! Emergency stop.
+<*> VeniCreator-intonation.gabc
+                               
+*** (job aborted, no legal \end found)
+
+
+
+Here is how much of LuaTeX's memory you used:
+ 5 strings out of 256749
+ 100000,552014 words of node,token memory allocated 1515 words of node memory still in use:
+   3 hlist, 25 glue, 2 penalty, 229 glyph, 42 glue_spec, 1 local_par, 1 dir nod
+es
+   avail lists: 2:12,4:17,6:1,7:22,10:20
+ 3777 multiletter control sequences out of 65536+50000
+ 14 fonts using 403927 bytes
+ 5i,0n,4p,148b,14s stack positions out of 30000i,500n,6000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!

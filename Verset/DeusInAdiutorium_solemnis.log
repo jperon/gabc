@@ -1,0 +1,113 @@
+This is LuaTeX, Version beta-0.50.0-2009122515 (format=lualatex 2009.12.31)  28 APR 2010 11:38
+ restricted \write18 enabled.
+**DeusInAdiutorium_solemnis.gabc
+(./DeusInAdiutorium_solemnis.gabc
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, pinyin, loaded.
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 n
+     ame:Deus, in adiutórium - solemnis;
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.4 (c4) DE(f)us(g_
+                   h) (,) in(h) ad(h)iu(h)tó(h)ri(h)um(h) me(ixg!hwi)um(h) ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.5 
+    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no ó (U+00F3) in font cmr10!
+Missing character: There is no ó (U+00F3) in font cmr10!
+Missing character: There is no é (U+00E9) in font cmr10!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--5
+[][]name:Deus,
+ []
+
+
+Overfull \hbox (338.52232pt too wide) in paragraph at lines 1--5
+DE(f)us(g$[][]\OT1/cmr/m/n/10 )(\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 )\OML/cmm/m/
+it/10 in\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ad
+\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 iu\OT1/cmr
+/m/n/10 (\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 (
+\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ri\OT1/cmr/m/n/10 (\OML/cmm
+/m/it/10 h\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 um\OT1/cmr/m/n/10 (\OML/cmm/m/it/10
+ h\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 me\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ixg\OT1
+/cmr/m/n/10 !\OML/cmm/m/it/10 hwi\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 um\OT1/cmr/m
+/n/10 (\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 in\OT1/cmr/m/n/10 (\
+OML/cmm/m/it/10 h\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 tn\OT1/cmr/m/n/10 (\OML/cmm/
+m/it/10 hg\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 de:\OT1/cmr/m/n/10 (\OML/cmm/m/it/1
+0 gh::\OT1/cmr/m/n/10 )(::
+ []
+
+
+Overfull \hbox (3.8889pt too wide) in paragraph at lines 1--5
+\OT1/cmr/m/n/10 )$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 <
+     sp>R/</sp>. D{ó}(f)mi(gh)ne(h'_) (,) ad(h) ad(h)iu(h)ván(h)dum(h) me(...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.6 <sp>R/</sp>. D{ó}(f)mi(gh)ne(h'_
+                                     ) (,) ad(h) ad(h)iu(h)ván(h)dum(h) me(...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+)
+! Emergency stop.
+<*> DeusInAdiutorium_solemnis.gabc
+                                  
+*** (job aborted, no legal \end found)
+
+
+
+Here is how much of LuaTeX's memory you used:
+ 18 strings out of 256749
+ 100000,552014 words of node,token memory allocated 3869 words of node memory still in use:
+   8 hlist, 2 disc, 2 math, 18 glue, 5 kern, 5 penalty, 366 noad, 370 math_char
+, 2 sub_mlist, 170 glyph, 37 glue_spec, 2 temp, 2 local_par, 2 dir nodes
+   avail lists: 2:10,6:1,7:11,10:8
+ 3779 multiletter control sequences out of 65536+50000
+ 25 fonts using 710919 bytes
+ 18i,2n,12p,256b,57s stack positions out of 5000i,500n,6000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!

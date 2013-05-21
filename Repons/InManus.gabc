@@ -1,0 +1,22 @@
+%Compilation:gregorio InManus.gabc
+%Apercu:gedit InManus.tex
+name:InManus;
+office-part:Autre;
+%%
+
+(c4) I<alt>\rubrique{Le chantre}</alt>N(f) ma(f)nus(f) tu(fg)as(g) Dó(gf)mi(g)ne,(gh..) *(;) Com(h')mén(f)do(gh) spí(g)ri(fd)tum(fg) me(g.)um.(f.) (::)
+
+%<i><v>{\red Tous :}</v></i>
+{I}n<alt>\rubrique{Tous}</alt>(f) ma(f)nus.(f) (::)
+
+%<i><v>{\red Le chantre :}</v></i>
+R{e}<alt>\rubrique{Le chantre}</alt>(h)de(h)mí(ixhi)sti(h) nos,(h) Dó(gh)mi(g)ne,(g'_) (,) De(h)us(g') ve(g)ri(gf)tá(g)tis.(gh..) (::)
+
+%<i><v>{\red Tous :}</v></i>
+*() Com<alt>\rubrique{Tous}</alt>(h)mén(f)do.(gh) (::)
+
+%<i><v>{\red Le chantre :}</v></i>
+<alt>\rubrique{Le chantre}</alt>Gló(h)ri(h)a(h) Pa(ixhi)tri,(h'_) (,) et(h) Fí(gh)li(g)o,(g'_) (,) et(g) Spi(g)rí(h')tu(g)i(f') San(g)cto.(gh..) (::)
+
+%<i><v>{\red Tous :}</v></i>
+{I}n<alt>\rubrique{Tous}</alt>(f) ma(f)nus.(f) (::)

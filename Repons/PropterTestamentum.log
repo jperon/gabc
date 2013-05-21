@@ -1,0 +1,276 @@
+This is LuaTeX, Version beta-0.50.0-2009122515 (format=lualatex 2009.12.31)  5 JUN 2010 09:48
+ restricted \write18 enabled.
+**PropterTestamentum.gabc
+(./PropterTestamentum.gabc
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, pinyin, loaded.
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 n
+     ame:Propter testaméntum;
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.4 ...sta(ghg)mén(hhg~)tum(ghGF) Dó(ixf!gwhg/h_
+                                                  i)mi(h)ni(h.) (;) et(f) le...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+! Missing { inserted.
+<to be read again> 
+                   _
+l.6 ... spí(h)ri(hg)tus(fe) in(g) e(fef)is,(dfc__
+                                                  _/d!ewfED___ewf.) (;) et(c...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+If you're confused by all this, try typing `I}' now.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.6 ...spí(h)ri(hg)tus(fe) in(g) e(fef)is,(dfc___
+                                                  /d!ewfED___ewf.) (;) et(cd...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+If you're confused by all this, try typing `I}' now.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.6 ...hg)tus(fe) in(g) e(fef)is,(dfc___/d!ewfED__
+                                                  _ewf.) (;) et(cd) u(fg_FEf...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+If you're confused by all this, try typing `I}' now.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.6 ...g)tus(fe) in(g) e(fef)is,(dfc___/d!ewfED___
+                                                  ewf.) (;) et(cd) u(fg_FEf!...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+If you're confused by all this, try typing `I}' now.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.6 ...ewf.) (;) et(cd) u(fg_FEf!g'h)na(hghfgvFE__
+                                                  _) fi(d!ewfef)des.(ed..) (::)
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+If you're confused by all this, try typing `I}' now.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.6 ...wf.) (;) et(cd) u(fg_FEf!g'h)na(hghfgvFE___
+                                                  ) fi(d!ewfef)des.(ed..) (::)
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+If you're confused by all this, try typing `I}' now.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.7 
+    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.7 
+    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.7 
+    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.7 
+    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.7 
+    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.7 
+    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.7 
+    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no é (U+00E9) in font cmr10!
+Missing character: There is no é (U+00E9) in font cmr10!
+Missing character: There is no é (U+00E9) in font cmr10!
+Missing character: There is no ó (U+00F3) in font cmr10!
+Missing character: There is no ó (U+00F3) in font cmr10!
+Missing character: There is no á (U+00E1) in font cmr10!
+Missing character: There is no á (U+00E1) in font cmr10!
+Missing character: There is no í (U+00ED) in font cmr10!
+Missing character: There is no í (U+00ED) in font cmr10!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--7
+[][]name:Propter
+ []
+
+
+Overfull \hbox (308.06282pt too wide) in paragraph at lines 1--7
+Dó(ixf!gwhg/h$[][]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 mi\OT1/cmr/m/n/10 (\OML/cm
+m/m/it/10 h\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ni\OT1/cmr/m/n/10 (\OML/cmm/m/it/1
+0 h:\OT1/cmr/m/n/10 )(; )\OML/cmm/m/it/10 et\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 f
+\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 le\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ggh\OT1/c
+mr/m/n/10 )\OML/cmm/m/it/10 ges\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 hgge\OT1/cmr/m
+/n/10 )\OML/cmm/m/it/10 pa\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 fg\OT1/cmr/m/n/10 )
+\OML/cmm/m/it/10 tr\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 f:d\OT1/cmr/m/n/10 !\OML/c
+mm/m/it/10 ewfef\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 nas; \OT1/cmr/m/n/10 (\OML/cm
+m/m/it/10 ed::\OT1/cmr/m/n/10 )(:
+ []
+
+
+Overfull \hbox (542.05069pt too wide) in paragraph at lines 1--7
+\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 san\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 d\OT1/cm
+r/m/n/10 )\OML/cmm/m/it/10 cti\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 f\OT1/cmr/m/n/1
+0 )\OML/cmm/m/it/10 De\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 fg\OT1/cmr/m/n/10 )\OML
+/cmm/m/it/10 i\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 )\OML/cmm/m/it
+/10 per\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 sti
+\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 t\OT1/cmr/
+m/n/10 (\OML/cmm/m/it/10 fe\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 runt\OT1/cmr/m/n/1
+0 (\OML/cmm/m/it/10 cdeved:\OT1/cmr/m/n/10 )(; )\OML/cmm/m/it/10 in\OT1/cmr/m/n
+/10 (\OML/cmm/m/it/10 d\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 a\OT1/cmr/m/n/10 (\OML
+/cmm/m/it/10 d\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 m\OT1/cmr/m/n/10 (\OML/cmm/m/it
+/10 fvv\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 re\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 d\
+OT1/cmr/m/n/10 )\OML/cmm/m/it/10 fra\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 fd\OT1/cm
+r/m/n/10 )\OML/cmm/m/it/10 ter\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ixf[]=hi[]\OT1/
+cmr/m/n/10 )\OML/cmm/m/it/10 ni\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 hg\OT1/cmr/m/n
+/10 )\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 f:e\OT1/cmr/m/n/10 !\O
+ML/cmm/m/it/10 fwgfg\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 tis \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (45.32417pt too wide) in paragraph at lines 1--7
+\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 fg=hg::\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (6.66669pt too wide) in paragraph at lines 1--7
+\OT1/cmr/m/n/10 (:
+ []
+
+
+Overfull \hbox (647.27298pt too wide) in paragraph at lines 1--7
+\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 Qui\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 f\OT1/cm
+r/m/n/10 )\OML/cmm/m/it/10 a\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 g\OT1/cmr/m/n/10 
+)\OML/cmm/m/it/10 u\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 g=hjh\OT1/cmr/m/n/10 )\OML
+/cmm/m/it/10 nus\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 )\OML/cmm/m/
+it/10 fu\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 it
+\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 sem\OT1/cm
+r/m/n/10 (\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 per\OT1/cmr/m/n/1
+0 (\OML/cmm/m/it/10 hg[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 sp\OT1/cmr/m/n/10 (\O
+ML/cmm/m/it/10 h\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ri\OT1/cmr/m/n/10 (\OML/cmm/m
+/it/10 hg\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 tus\OT1/cmr/m/n/10 (\OML/cmm/m/it/10
+ fe\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 in\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 g\OT1/
+cmr/m/n/10 )\OML/cmm/m/it/10 e\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 fef\OT1/cmr/m/n
+/10 )\OML/cmm/m/it/10 is; \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 dfc[]$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 <
+     sp>V/</sp>. Ec(h)ce(hghggf) quam(g) bo(gh)num(g) (,) et(hf~) quam(gh) i...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+! Emergency stop.
+<*> PropterTestamentum.gabc
+                           
+*** (job aborted, no legal \end found)
+
+
+
+Here is how much of LuaTeX's memory you used:
+ 18 strings out of 256749
+ 100000,552014 words of node,token memory allocated 4428 words of node memory still in use:
+   31 hlist, 1 disc, 2 math, 49 glue, 79 kern, 12 penalty, 663 glyph, 48 glue_s
+pec, 1 temp, 2 local_par, 1 dir nodes
+   avail lists: 1:1,2:11,3:364,4:306,6:6,7:13,10:7
+ 3779 multiletter control sequences out of 65536+50000
+ 25 fonts using 710919 bytes
+ 18i,7n,12p,238b,57s stack positions out of 30000i,500n,6000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!

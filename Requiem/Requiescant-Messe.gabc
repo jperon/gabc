@@ -1,0 +1,9 @@
+%Compilation:gregorio Requiescant.gabc
+name: requiem;
+initial-style:0;
+%%
+
+(c3) <alt>\rubrique{Le célébrant}</alt>
+<sp>V/</sp><v>{\red.}</v> R{e}(g)qui(h)ésc(h)ant(g) in(h) pa(hg)ce.(g.) (::)
+
+<sp>R/</sp><v>{\red.}</v> A<alt>\rubrique{Tous}</alt>(g)men.(gh..) (::)

@@ -1,0 +1,194 @@
+This is LuaTeX, Version beta-0.50.0-2009122515 (format=lualatex 2009.12.31)  15 FEB 2010 16:42
+ restricted \write18 enabled.
+**Ierusalem.gabc
+(./Ierusalem.gabc
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, pinyin, loaded.
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 n
+     ame:Ierúsalem;
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.3 (c3) IE(f)rú(d')sa(f)lem, *(hvv_
+                                     _) sur(h.g!hwi!jvIH)ge,(ih..) (;) et(f)...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+! Missing { inserted.
+<to be read again> 
+                   _
+l.3 (c3) IE(f)rú(d')sa(f)lem, *(hvv__
+                                      ) sur(h.g!hwi!jvIH)ge,(ih..) (;) et(f)...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+If you're confused by all this, try typing `I}' now.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.3 ...)e(f) te(fe) vé(f!gwh)sti(e_fED'e)bus(ed__
+                                                  ) (,) iu(d)cun(efef)di(gxf...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+If you're confused by all this, try typing `I}' now.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.3 ...D'e)bus(ed__) (,) iu(d)cun(efef)di(gxf_hF__
+                                                  E'fwgFE)tá(de!fvED'e)tis:...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+If you're confused by all this, try typing `I}' now.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.4 ...) est(ed..) (,) Sal(d)vá(efef)tor(gxf_hF__
+                                                  E'fwgFE') I(d)sra(de!fvED'...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+If you're confused by all this, try typing `I}' now.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.5 
+    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.5 
+    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.5 
+    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.5 
+    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.5 
+    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no é (U+00E9) in font cmr7!
+Missing character: There is no é (U+00E9) in font cmr7!
+Missing character: There is no é (U+00E9) in font cmr7!
+Missing character: There is no é (U+00E9) in font cmr7!
+Missing character: There is no á (U+00E1) in font cmr5!
+Missing character: There is no á (U+00E1) in font cmr5!
+Missing character: There is no ú (U+00FA) in font cmr5!
+Missing character: There is no ú (U+00FA) in font cmr5!
+Missing character: There is no í (U+00ED) in font cmr5!
+Missing character: There is no í (U+00ED) in font cmr5!
+Missing character: There is no í (U+00ED) in font cmr5!
+Missing character: There is no í (U+00ED) in font cmr5!
+Missing character: There is no í (U+00ED) in font cmr5!
+Missing character: There is no í (U+00ED) in font cmr5!
+Missing character: There is no á (U+00E1) in font cmr5!
+Missing character: There is no á (U+00E1) in font cmr5!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--5
+[][]name:Ierúsalem;
+ []
+
+
+Overfull \hbox (1183.57265pt too wide) in paragraph at lines 1--5
+*(hvv$[][]$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 <
+     sp>V/</sp>. De(h)duc(hi//hh/fgf) qua(h)si(h) tor(h)rén(h)tem(h) lá(hi...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.6 ...h) tor(h)rén(h)tem(h) lá(hi)cri(h)mas(h'_
+                                                  ) (,) per(h) di(hf)em(fi) ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+)
+! Emergency stop.
+<*> Ierusalem.gabc
+                  
+*** (job aborted, no legal \end found)
+
+
+
+Here is how much of LuaTeX's memory you used:
+ 18 strings out of 256749
+ 100000,552014 words of node,token memory allocated 4376 words of node memory still in use:
+   33 hlist, 2 vlist, 2 math, 14 glue, 76 kern, 4 penalty, 158 noad, 162 math_c
+har, 1 sub_mlist, 468 glyph, 34 glue_spec, 2 temp, 2 local_par, 2 dir nodes
+   avail lists: 2:11,3:197,4:172,6:4,7:4,10:2
+ 3779 multiletter control sequences out of 65536+50000
+ 25 fonts using 710919 bytes
+ 18i,6n,12p,283b,57s stack positions out of 5000i,500n,6000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!

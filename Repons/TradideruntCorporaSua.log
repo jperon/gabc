@@ -1,0 +1,159 @@
+This is LuaTeX, Version beta-0.50.0-2009122515 (format=lualatex 2009.12.31)  1 JUN 2010 17:19
+ restricted \write18 enabled.
+**TradideruntCorporaSua.gabc
+(./TradideruntCorporaSua.gabc
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, pinyin, loaded.
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 n
+     ame:Tradidérunt córpora sua;
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.4 ...)runt *(h) cór(h)po(gh)ra(gfg) su(ixivHGh_
+                                                  i)a(h.) (;) pro(f)pter(gh)...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.6 
+    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no í (U+00ED) in font cmr10!
+Missing character: There is no í (U+00ED) in font cmr10!
+Missing character: There is no é (U+00E9) in font cmr10!
+Missing character: There is no é (U+00E9) in font cmr10!
+Missing character: There is no é (U+00E9) in font cmr10!
+Missing character: There is no é (U+00E9) in font cmr10!
+Missing character: There is no ó (U+00F3) in font cmr10!
+Missing character: There is no ó (U+00F3) in font cmr10!
+Missing character: There is no é (U+00E9) in font cmr10!
+Missing character: There is no é (U+00E9) in font cmr10!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--6
+[][]name:Tradidérunt
+ []
+
+
+Overfull \hbox (382.25562pt too wide) in paragraph at lines 1--6
+su(ixivHGh$[][]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 a\OT1/cmr/m/n/10 (\OML/cmm/m/i
+t/10 h:\OT1/cmr/m/n/10 )(; )\OML/cmm/m/it/10 pro\OT1/cmr/m/n/10 (\OML/cmm/m/it/
+10 f\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 pter\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 gh\
+OT1/cmr/m/n/10 )\OML/cmm/m/it/10 De\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 hg=hfg\OT1
+/cmr/m/n/10 )\OML/cmm/m/it/10 um\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 df=ddc:\OT1/c
+mr/m/n/10 )\OML/cmm/m/it/10 ad\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 f[]\OT1/cmr/m/n
+/10 !\OML/cmm/m/it/10 hv\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 sup\OT1/cmr/m/n/10 (\
+OML/cmm/m/it/10 fe\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 pl\OT1/cmr/m/n/10 (\OML/cmm
+/m/it/10 d\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ci\OT1/cmr/m/n/10 (\OML/cmm/m/it/10
+ de\OT1/cmr/m/n/10 !\OML/cmm/m/it/10 fvEDe\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 a \
+OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (28.19452pt too wide) in paragraph at lines 1--6
+\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ed::\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (6.66669pt too wide) in paragraph at lines 1--6
+\OT1/cmr/m/n/10 (:
+ []
+
+
+Overfull \hbox (571.8326pt too wide) in paragraph at lines 1--6
+\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 Et\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 dc[]\OT1/
+cmr/m/n/10 )\OML/cmm/m/it/10 me\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 f\OT1/cmr/m/n/
+10 )\OML/cmm/m/it/10 ru\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 gh\OT1/cmr/m/n/10 )(\O
+ML/cmm/m/it/10 hg\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 runt\OT1/cmr/m/n/10 (\OML/cm
+m/m/it/10 ge\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ha\OT1/cmr/m/n/10 (\OML/cmm/m/it/
+10 g\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 b\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 g[]FED
+\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 re\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 dfddc:\OT
+1/cmr/m/n/10 )(; )\OML/cmm/m/it/10 co\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 cd\OT1/c
+mr/m/n/10 )\OML/cmm/m/it/10 r\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 fd=ff\OT1/cmr/m/
+n/10 !\OML/cmm/m/it/10 gv\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 nas\OT1/cmr/m/n/10 (
+\OML/cmm/m/it/10 gv[]g\OT1/cmr/m/n/10 !\OML/cmm/m/it/10 hv\OT1/cmr/m/n/10 )\OML
+/cmm/m/it/10 per\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 fee\OT1/cmr/m/n/10 )\OML/cmm/
+m/it/10 p\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 d\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 t
+u\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 de\OT1/cmr/m/n/10 !\OML/cmm/m/it/10 fv[]De\O
+T1/cmr/m/n/10 )\OML/cmm/m/it/10 as:\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ed::\OT1/c
+mr/m/n/10 )(::
+ []
+
+
+Overfull \hbox (3.8889pt too wide) in paragraph at lines 1--6
+\OT1/cmr/m/n/10 )$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 <
+     sp>V/</sp>. I(h)sti(h) sunt,(hg/hggf~) qui(g) ve(g)né(gh)runt(g) ex(g)...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 7--8
+[][]<sp>V/</sp>.
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 G
+     ló(h)ri(h)a(hg/hggf) Pa(hf)tri,(gh) et(gh) Fí(ixh)li(h/iih)o,(h.) (;)...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+! Emergency stop.
+<*> TradideruntCorporaSua.gabc
+                              
+*** (job aborted, no legal \end found)
+
+
+
+Here is how much of LuaTeX's memory you used:
+ 18 strings out of 256749
+ 100000,552014 words of node,token memory allocated 4811 words of node memory still in use:
+   19 hlist, 1 disc, 2 math, 68 glue, 44 kern, 15 penalty, 770 glyph, 49 glue_s
+pec, 1 temp, 3 local_par, 1 dir nodes
+   avail lists: 2:11,3:205,4:137,7:20,10:18
+ 3779 multiletter control sequences out of 65536+50000
+ 25 fonts using 710919 bytes
+ 18i,2n,12p,328b,57s stack positions out of 30000i,500n,6000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!

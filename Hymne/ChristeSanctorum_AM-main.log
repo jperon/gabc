@@ -1,0 +1,42 @@
+This is LuaTeX, Version beta-0.70.2-2012091206 (TeX Live 2012/Debian) (format=lualatex 2013.4.27)  5 MAY 2013 21:46
+ \write18 enabled.
+**/home/jacques/Musique/Gregorien/Partitions/Hymne/ChristeSanctorum_AM-main.tex
+
+(/home/jacques/Musique/Gregorien/Partitions/Hymne/ChristeSanctorum_AM-main.tex
+LaTeX2e <2011/06/27>
+LuaTeX adaptation of babel <v3.8m-luatex-1.5> and hyphenation patterns for engl
+ish, dumylang, nohyphenation, ethiopic, farsi, arabic, pinyin, croatian, bulgar
+ian, ukrainian, russian, slovak, czech, danish, dutch, usenglishmax, ukenglish,
+ finnish, french, basque, ngerman, german, swissgerman, ngerman-x-2012-05-30, g
+erman-x-2012-05-30, monogreek, greek, ibycus, ancientgreek, hungarian, bengali,
+ tamil, hindi, telugu, sanskrit, gujarati, malayalam, kannada, assamese, marath
+i, oriya, panjabi, italian, latin, latvian, lithuanian, mongolian, mongolianlmc
+, nynorsk, bokmal, indonesian, esperanto, coptic, welsh, irish, interlingua, se
+rbian, serbianc, slovenian, friulan, romansh, estonian, romanian, armenian, upp
+ersorbian, turkish, afrikaans, icelandic, kurmanji, polish, portuguese, galicia
+n, catalan, spanish, swedish, thai, loaded.
+
+! LaTeX Error: File `gregorian.cls' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: cls)
+
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.7 \setmainfont
+                [Ligatures={Common,TeX},Numbers=OldStyle]{Linux Libertine Di...
+*** (cannot \read from terminal in nonstop modes)
+
+
+
+Here is how much of LuaTeX's memory you used:
+ 14 strings out of 494125
+ 100000,552014 words of node,token memory allocated 188 words of node memory still in use:
+   31 glue_spec, 1 dir nodes
+   avail lists: 2:12,3:1
+ 3761 multiletter control sequences out of 65536+200000
+ 14 fonts using 563007 bytes
+ 10i,0n,7p,221b,14s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!
